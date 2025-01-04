@@ -1,7 +1,7 @@
 ### 🌷𝐊 𝐀 𝐑 𝐌 𝐀🌷
 
 <!--
-**itzshukla/itzshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**karmaxeclusive/karma_userbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -9,9 +9,9 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
 </p>
 
-<h1 align="center"><b>⚡️𝐊𝐀𝐑𝐌𝐀 𝐒𝐏𝐀𝐌⚡️</b></h1>
+<h1 align="center"><b>⚡️𝐊𝐀𝐑𝐌𝐀 𝐔𝐒𝐄𝐑𝐁𝐎𝐓⚡️</b></h1>
 
-<h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
+<h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐔𝐏𝐄𝐑 𝐁𝐎𝐓⚡️</h4>
 
 <p align="center"><a href="https://t.me/FuckerEx"><img src="https://files.catbox.moe/juo6si.jpeg" width="400"></a></p>
 
@@ -45,7 +45,7 @@
 
 # Rᴇǫᴜɪʀᴇᴍᴇɴᴛs
 
-- `10 BOT-TOKENS`
+- `String Session`
 
 - `OWNER-ID`
 
