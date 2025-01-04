@@ -3,7 +3,7 @@
     "logo": "https://files.catbox.moe/juo6si.jpeg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/karmaxeclusive/KARMA_USERBOT",
+    "repository": "https://github.com/karmaxexclusive/KARMA_USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
